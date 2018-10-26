@@ -1,1 +1,1 @@
-# dual-msgeq7
+DUAL MSGEQ7
