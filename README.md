@@ -13,6 +13,7 @@
 * 22k Ohm stereo potentiometer x1
 * 200k Ohm resistor x2
 * 3.5mm audio input jack x1
+* stripboard
 ### Schematics
 [From the MSGEQ7 datasheed](https://www.sparkfun.com/datasheets/Components/General/MSGEQ7.pdf)
 
