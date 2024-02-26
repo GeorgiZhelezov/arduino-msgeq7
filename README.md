@@ -1,5 +1,5 @@
 # Dual MSGEQ7 with Arduino Uno
-### Create your own flashy LED graphic equalizer !
+### Create your own flashy LED audio spectrum visualizer !
 ![demo impulse gif](https://github.com/GeorgiZhelezov/arduino-msgeq7/blob/master/demos/impulse.gif)
 ### Parts for two MSGEQ7s
 * [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3)
